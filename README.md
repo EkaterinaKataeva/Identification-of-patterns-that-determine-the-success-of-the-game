@@ -1,0 +1,1 @@
+# Identification-of-patterns-that-determine-the-success-of-the-game
